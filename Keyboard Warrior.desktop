@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Keyboard Warrior
+Exec=python3 /home/ashes/keyboard-warrior/keyboard_light_gui.py
+Icon=/home/ashes/.icons/Keyboard_Icon.png
+Terminal=false
+Comment=Control keyboard backlight
+Categories=Utility;
+
